@@ -2,17 +2,17 @@
 
 ## Project setup
 ```
-yarn install
+yarn install or npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn serve or npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+yarn build or npm run build
 ```
 
 ### Lints and fixes files
@@ -22,3 +22,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+<br/>
+<br/>
+Programa desenvolvido pelo canal do YouTube do Rodrigo Branas <br/>
+PlayLists : Projeto COMPLETO 2019 - Vue.js, GraphQL e Node
